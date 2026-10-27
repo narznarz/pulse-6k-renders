@@ -5,7 +5,7 @@ Pulse 6K 렌더 이미지입니다. 압축 없이 원본 포맷 그대로 올려
 ## 파일
 
 - `pulse_bg1_v112_narz.avif` (약 42 MB) — AVIF 포맷 렌더
-- `pulse009_6k_1000lm_ps.jpg` (약 14 MB) — JPG 포맷 렌더
+- `pulse_bg1_v112_narz.jpg` (약 14 MB) — JPG 포맷 렌더
 
 ## 다운로드
 
